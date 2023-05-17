@@ -1,2 +1,2 @@
 # Airline-Satisfication
-Predict how the customers qualify their experience on the flight with 2 ways of approach: clustering and classification
+This is a group final project of Data Analysing Programming subject. We are asked to choose a dataset and apply all the knowledge introduced during the course to analyse the data. Our dataset is about the passengers' qualification in many respects after flights from an airline company. Through this research, we try to predict how the customers qualify their experience on the flight with 2 ways of approach: clustering and classification
